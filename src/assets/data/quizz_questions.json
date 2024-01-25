@@ -1,0 +1,56 @@
+{
+  "title": "Descubra seu Animal Mágico",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual característica mágica você prefere?",
+      "options": [
+        {"id": 1, "name": "Invisibilidade", "alias": "A"},
+        {"id": 2, "name": "Teletransporte", "alias": "B"},
+        {"id": 3, "name": "Transformação em outros animais", "alias": "A"},
+        {"id": 4, "name": "Comunicação telepática", "alias": "B"},
+        {"id": 5, "name": "Controle do clima", "alias": "A"}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Onde você prefere viver?",
+      "options": [
+        {"id": 1, "name": "Floresta mágica", "alias": "A"},
+        {"id": 2, "name": "Cidade encantada", "alias": "B"},
+        {"id": 3, "name": "Montanhas místicas", "alias": "A"},
+        {"id": 4, "name": "Ilha paradisíaca", "alias": "B"}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual seria sua habilidade especial?",
+      "options": [
+        {"id": 1, "name": "Curar feridas mágicas", "alias": "B"},
+        {"id": 2, "name": "Voar", "alias": "A"},
+        {"id": 3, "name": "Ler mentes", "alias": "B"},
+        {"id": 4, "name": "Manipular plantas", "alias": "A"}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Como você ajudaria os outros?",
+      "options": [
+        {"id": 1, "name": "Realizando desejos", "alias": "A"},
+        {"id": 2, "name": "Protegendo contra forças malignas", "alias": "B"}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual seria seu nome mágico?",
+      "options": [
+        {"id": 1, "name": "O Encantador", "alias": "B"},
+        {"id": 2, "name": "A Viajante Dimensional", "alias": "A"}
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você é provavelmente um ser mágico viajante, conectado com a natureza e a essência mágica do universo!",
+    "B": "Você é provavelmente um guardião mágico, dedicado a proteger o mundo contra as trevas!"
+  }
+}
